@@ -1,0 +1,11 @@
+[package]
+name = "embed"
+version = "0.1.0"
+authors = ["yanjingfeng <jingfeng.yan@msxf.com>"]
+
+[dependencies]
+
+
+[lib]
+name = "embed"
+crate-type = ["dylib"]
